@@ -938,10 +938,11 @@ Goal: experience the full arc from idea to shipped thing, with AI as your partne
 
 ### Vibe Coding Community
 
+- **[Awesome Vibe Coding](https://github.com/ai-for-developers/awesome-vibe-coding)** — where the term originated; still a good signal source
 - **r/vibecoding** on Reddit
 - **Hacker News** — search for "vibe coding" threads
 - **Simon Willison's blog** — [simonwillison.net](https://simonwillison.net) — one of the most thoughtful writers on practical AI coding
-- **Andrej Karpathy's X/Twitter** — where the term originated; still a good signal source
+
 
 ### When You Want to Stop Vibing and Start Engineering
 
