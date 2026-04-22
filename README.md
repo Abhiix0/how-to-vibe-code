@@ -239,9 +239,10 @@ The AI lives in your editor and can read your files, write directly into them, a
 
 You run a command, the AI reads your project, makes changes, runs tests, and reports back.
 
-- **Claude Code** — Anthropic's official CLI. You run `claude` in your project, describe a task, and it works on it. Very good for multi-step changes.
+- **Claude Code** — Anthropic's official CLI. Handles multi-step agentic tasks end-to-end — refactors, migrations, test writing. Supports tool use, extended context workflows, and integrates naturally into terminal and editor-based development. Run `claude` in your project and describe what you want done.
 - **Aider** — open source, works with various models.
 - **OpenAI Codex CLI** — similar category.
+- **Gemini CLI** — Google's official terminal-based AI coding agent. Fits the same category as Claude Code and Aider; useful if you're already in the Google/Gemini ecosystem.
 
 **Pros:** Genuinely agentic — can handle multi-step tasks end-to-end. Great for refactors, migrations, test writing.
 **Cons:** Less hand-holding. Requires comfort with the terminal. Easy to let the AI do things you didn't intend.
